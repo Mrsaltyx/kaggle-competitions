@@ -1,0 +1,30 @@
+{
+  "id": "mrsaltyx/s6e8-v4-rank-logit-regime-fusion-enrichi",
+  "title": "S6E8 v4 - Rank Logit Regime Fusion Enrichi",
+  "code_file": "s6e8-v4-fusion.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "szymonkapiski/s6e8-oof-library-47-models",
+    "szymonkapiski/s6e8-50-weakest-oof-models",
+    "najiama/predicting-smartphone-addiction-oof-submission-csv",
+    "boltuzamaki/s6e8-oof-prediction-library",
+    "raykkretzschmar/s6e8-fm-lattice-blend-members",
+    "dariushafshar/s6e8-golem-oof-library",
+    "adarsh1077/s6e8-adarsh-oof-library",
+    "hboyang/s6e8-150-fusion-local-members",
+    "hboyang/s6e8-catstrall-member",
+    "aadijoshi19/s6e8-mask-augmented-oof-library",
+    "paiky1995/s6e8-oof-library-11-members",
+    "masayakawamata/s6e8-catstr-aug16"
+  ],
+  "competition_sources": [
+    "playground-series-s6e8"
+  ],
+  "kernel_sources": [],
+  "category_ids": []
+}

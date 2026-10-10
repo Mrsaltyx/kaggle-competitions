@@ -1,0 +1,17 @@
+{
+  "id": "mrsaltyx/s6e7-v10b-optuna",
+  "title": "s6e7-v10b-optuna",
+  "code_file": "s6e7-v10b-optuna.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "playground-series-s6e7"
+  ],
+  "kernel_sources": [],
+  "category_ids": []
+}

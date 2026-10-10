@@ -1,0 +1,46 @@
+[{"stream_name":"stderr","time":6.902901697,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.903612667,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.9036190269999995,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.903622887,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.497743,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.49778393,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.49778901,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.49779285,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":12.902225855,"data":"train/test: (691369, 14) (296302, 13)\n"}
+,{"stream_name":"stdout","time":13.100989509,"data":"55 paires oof/test trouvées\n"}
+,{"stream_name":"stdout","time":17.583565614,"data":"membre externe ajouté: naji10 | AUC oof = 0.96947\n"}
+,{"stream_name":"stdout","time":17.791155649,"data":"membre externe ajouté: ours_v1 | AUC oof = 0.96465\n"}
+,{"stream_name":"stdout","time":18.239074788,"data":"membres chargés: 57\n"}
+,{"stream_name":"stdout","time":26.385244071,"data":"AUC membres: min 0.91880 | médiane 0.96616 | max 0.96947\n"}
+,{"stream_name":"stdout","time":26.385296361,"data":"dédoublonnage: 2 retirés -\u003e 55 conservés\n"}
+,{"stream_name":"stdout","time":27.598510657,"data":"XA (691369, 55) | XB (691369, 61)\n"}
+,{"stream_name":"stdout","time":53.051459329,"data":"A global C=0.1: AUC 0.969469 ± 0.000397\n"}
+,{"stream_name":"stdout","time":77.218509981,"data":"A global C=1.0: AUC 0.969468 ± 0.000397\n"}
+,{"stream_name":"stdout","time":101.316527365,"data":"A global C=10.0: AUC 0.969469 ± 0.000397\n"}
+,{"stream_name":"stdout","time":127.723929881,"data":"B regimes C=0.1: AUC 0.969472 ± 0.000399\n"}
+,{"stream_name":"stdout","time":157.174120867,"data":"B regimes C=1.0: AUC 0.969471 ± 0.000397\n"}
+,{"stream_name":"stdout","time":183.938202332,"data":"B regimes C=10.0: AUC 0.969471 ± 0.000398\n"}
+,{"stream_name":"stdout","time":183.939071252,"data":"meilleur: ('B regimes', 0.1) (np.float64(0.9694718437986459), np.float64(0.0003985331635441675))\n"}
+,{"stream_name":"stdout","time":207.299463546,"data":"corr spearman stack/naji: 0.9938\n"}
+,{"stream_name":"stdout","time":207.783905022,"data":"C percentile-blend: AUC 0.969485 ± 0.000400\n"}
+,{"stream_name":"stdout","time":207.783952722,"data":"(rappel A:        AUC 0.969468 ± 0.000397)\n"}
+,{"stream_name":"stdout","time":243.750778249,"data":"candidat C retenu (CV 0.969485 \u003e stack 0.969472)\n"}
+,{"stream_name":"stdout","time":244.034622858,"data":"soumission écrite | OOF CV = 0.969485\n"}
+,{"stream_name":"stdout","time":244.034669667,"data":"count    296302.000000\n"}
+,{"stream_name":"stdout","time":244.034678198,"data":"mean          0.500228\n"}
+,{"stream_name":"stdout","time":244.034683278,"data":"std           0.288742\n"}
+,{"stream_name":"stdout","time":244.034688267,"data":"min           0.000007\n"}
+,{"stream_name":"stdout","time":244.034693658,"data":"25%           0.249949\n"}
+,{"stream_name":"stdout","time":244.034698827,"data":"50%           0.499907\n"}
+,{"stream_name":"stdout","time":244.034703598,"data":"75%           0.751414\n"}
+,{"stream_name":"stdout","time":244.034732447,"data":"max           0.999886\n"}
+,{"stream_name":"stdout","time":244.034736778,"data":"Name: addicted_label, dtype: float64\n"}
+,{"stream_name":"stderr","time":249.182735233,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":249.182787423,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":249.353402586,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":249.353433606,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":250.039523709,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":250.325264406,"data":"[NbConvertApp] Writing 16205 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":252.994445806,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":253.853341598,"data":"[NbConvertApp] Writing 328015 bytes to __results__.html\n"}
+]

@@ -1,0 +1,15 @@
+{
+  "id": "mrsaltyx/s6e7-health-risk-gpu-ensemble",
+  "title": "S6E7 Health Risk - GPU Ensemble",
+  "code_file": "s6e7-health-risk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["ziya07/college-student-health-behavior-dataset"],
+  "competition_sources": ["playground-series-s6e7"],
+  "kernel_sources": [],
+  "category_ids": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mrsaltyx/s6e8-meta-stack",
+  "title": "S6E8 Meta Stack",
+  "code_file": "s6e8-v2-stack.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "szymonkapiski/s6e8-oof-library-47-models",
+    "najiama/predicting-smartphone-addiction-oof-submission-csv"
+  ],
+  "competition_sources": ["playground-series-s6e8"],
+  "kernel_sources": ["mrsaltyx/s6e8-smartphone-addiction-baseline-gpu"],
+  "category_ids": []
+}

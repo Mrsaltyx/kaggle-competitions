@@ -1,0 +1,20 @@
+{
+  "id": "mrsaltyx/s6e7-v11b-tabpfn",
+  "title": "s6e7-v11b-tabpfn",
+  "code_file": "s6e7-v11b-tabpfn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [
+    "playground-series-s6e7"
+  ],
+  "kernel_sources": [],
+  "category_ids": [],
+  "model_sources": [
+    "prior-labsai/tabpfn-3/PyTorch/default/1"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "member_count": 205,
+  "fold_definition": "StratifiedKFold(5, shuffle=True, random_state=42)",
+  "base_meta_oof": 0.9702212403622043,
+  "VALIDATE": true,
+  "device": "cpu",
+  "generated": "2026-08-24T12:57:26.228418",
+  "pooled_oof_auc_mix": 0.9703718101959079,
+  "nested_pooled_oof_auc": 0.970394489810258,
+  "nested_selected_alpha": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "folds": [
+    {
+      "fold": 0,
+      "dual_auc": 0.9697547326065011,
+      "regime_auc": 0.9696488021395047,
+      "mix_auc": 0.9698561863181503,
+      "seconds": 738.61
+    },
+    {
+      "fold": 1,
+      "dual_auc": 0.9704381496706616,
+      "regime_auc": 0.9700052332583694,
+      "mix_auc": 0.9705260788594414,
+      "seconds": 813.38
+    },
+    {
+      "fold": 2,
+      "dual_auc": 0.9703855411669102,
+      "regime_auc": 0.9703075817626514,
+      "mix_auc": 0.9705058392669814,
+      "seconds": 728.23
+    },
+    {
+      "fold": 3,
+      "dual_auc": 0.9709280608910175,
+      "regime_auc": 0.97087370730391,
+      "mix_auc": 0.9710471311151215,
+      "seconds": 729.75
+    },
+    {
+      "fold": 4,
+      "dual_auc": 0.9698725017583745,
+      "regime_auc": 0.9666607126190405,
+      "mix_auc": 0.9699238114871553,
+      "seconds": 766.95
+    }
+  ]
+}

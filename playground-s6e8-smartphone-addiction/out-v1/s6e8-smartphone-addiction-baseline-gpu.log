@@ -1,0 +1,82 @@
+[{"stream_name":"stderr","time":6.972138181,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.972907905,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.972915093,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.972919032,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.57485168,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.574880211,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.574885335,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.574889435,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":12.55364735,"data":"DATA_DIR: /kaggle/input/competitions/playground-series-s6e8\n"}
+,{"stream_name":"stdout","time":14.224762371,"data":"classes: [0.29057565 0.70942435] | features: 9 num + 3 cat\n"}
+,{"stream_name":"stdout","time":26.677864662,"data":"[XGB s42] fold 1 | iter=1804 | AUC=0.96352\n"}
+,{"stream_name":"stdout","time":39.989870464,"data":"[XGB s42] fold 2 | iter=2141 | AUC=0.96424\n"}
+,{"stream_name":"stdout","time":53.099319901,"data":"[XGB s42] fold 3 | iter=2105 | AUC=0.96437\n"}
+,{"stream_name":"stdout","time":64.284932513,"data":"[XGB s42] fold 4 | iter=1724 | AUC=0.96514\n"}
+,{"stream_name":"stdout","time":76.652541568,"data":"[XGB s42] fold 5 | iter=1977 | AUC=0.96397\n"}
+,{"stream_name":"stdout","time":90.240073148,"data":"[XGB s1] fold 1 | iter=2180 | AUC=0.96464\n"}
+,{"stream_name":"stdout","time":103.478174476,"data":"[XGB s1] fold 2 | iter=2147 | AUC=0.96356\n"}
+,{"stream_name":"stdout","time":116.345389737,"data":"[XGB s1] fold 3 | iter=2076 | AUC=0.96485\n"}
+,{"stream_name":"stdout","time":127.53929412,"data":"[XGB s1] fold 4 | iter=1742 | AUC=0.96411\n"}
+,{"stream_name":"stdout","time":139.149636689,"data":"[XGB s1] fold 5 | iter=1824 | AUC=0.96397\n"}
+,{"stream_name":"stdout","time":139.304703619,"data":"[XGB] OOF AUC: 0.96465\n"}
+,{"stream_name":"stderr","time":140.67324081,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":140.673281551,"data":"\n"}
+,{"stream_name":"stderr","time":140.673287494,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":393.402690476,"data":"[CAT s42] fold 1 | iter=3976 | AUC=0.95848\n"}
+,{"stream_name":"stderr","time":394.639142382,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":394.639196232,"data":"\n"}
+,{"stream_name":"stderr","time":394.639204186,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":607.585664155,"data":"[CAT s42] fold 2 | iter=3987 | AUC=0.95901\n"}
+,{"stream_name":"stderr","time":608.757762969,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":608.757799112,"data":"\n"}
+,{"stream_name":"stderr","time":608.757804284,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":822.374253904,"data":"[CAT s42] fold 3 | iter=3856 | AUC=0.95951\n"}
+,{"stream_name":"stderr","time":823.607149531,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":823.607205496,"data":"\n"}
+,{"stream_name":"stderr","time":823.60721064,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":1038.496380472,"data":"[CAT s42] fold 4 | iter=3961 | AUC=0.96024\n"}
+,{"stream_name":"stderr","time":1039.683623046,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":1039.683671778,"data":"\n"}
+,{"stream_name":"stderr","time":1039.683694891,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":1254.024195155,"data":"[CAT s42] fold 5 | iter=3784 | AUC=0.95901\n"}
+,{"stream_name":"stderr","time":1255.272715965,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":1255.272775544,"data":"\n"}
+,{"stream_name":"stderr","time":1255.272783435,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":1469.828555197,"data":"[CAT s1] fold 1 | iter=3962 | AUC=0.95963\n"}
+,{"stream_name":"stderr","time":1471.03958666,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":1471.039653006,"data":"\n"}
+,{"stream_name":"stderr","time":1471.03966042,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":1688.583519211,"data":"[CAT s1] fold 2 | iter=3968 | AUC=0.95869\n"}
+,{"stream_name":"stderr","time":1689.866554515,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":1689.866627231,"data":"\n"}
+,{"stream_name":"stderr","time":1689.866635518,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":1905.721958538,"data":"[CAT s1] fold 3 | iter=3997 | AUC=0.96000\n"}
+,{"stream_name":"stderr","time":1906.972424567,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":1906.972462599,"data":"\n"}
+,{"stream_name":"stderr","time":1906.972468161,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":2121.785706319,"data":"[CAT s1] fold 4 | iter=3991 | AUC=0.95846\n"}
+,{"stream_name":"stderr","time":2122.998957972,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stderr","time":2122.999003643,"data":"\n"}
+,{"stream_name":"stderr","time":2122.999009637,"data":"Default metric period is 5 because AUC is/are not implemented for GPU\n"}
+,{"stream_name":"stdout","time":2337.477872519,"data":"[CAT s1] fold 5 | iter=3968 | AUC=0.95939\n"}
+,{"stream_name":"stdout","time":2337.629853715,"data":"[CAT] OOF AUC: 0.95967\n"}
+,{"stream_name":"stdout","time":2341.346324852,"data":"blend xgb=1.00 cat=0.00 | OOF AUC = 0.96465\n"}
+,{"stream_name":"stdout","time":2341.821049361,"data":"count    296302.000000\n"}
+,{"stream_name":"stdout","time":2341.821107034,"data":"mean          0.709688\n"}
+,{"stream_name":"stdout","time":2341.821114179,"data":"std           0.369272\n"}
+,{"stream_name":"stdout","time":2341.821119077,"data":"min           0.000044\n"}
+,{"stream_name":"stdout","time":2341.821123586,"data":"25%           0.390262\n"}
+,{"stream_name":"stdout","time":2341.821128293,"data":"50%           0.948343\n"}
+,{"stream_name":"stdout","time":2341.821132946,"data":"75%           0.999555\n"}
+,{"stream_name":"stdout","time":2341.821137669,"data":"max           1.000000\n"}
+,{"stream_name":"stdout","time":2341.821157042,"data":"Name: addicted_label, dtype: float64\n"}
+,{"stream_name":"stdout","time":2341.821161414,"data":"OK submission.csv\n"}
+,{"stream_name":"stderr","time":2344.855728498,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2344.855774191,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2345.011217516,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2345.011257968,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2345.681247362,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":2346.004861168,"data":"[NbConvertApp] Writing 13479 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":2348.514832633,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2349.373093613,"data":"[NbConvertApp] Writing 309163 bytes to __results__.html\n"}
+]

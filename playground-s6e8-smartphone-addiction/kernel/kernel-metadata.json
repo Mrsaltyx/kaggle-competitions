@@ -1,0 +1,15 @@
+{
+  "id": "mrsaltyx/s6e8-smartphone-baseline-gpu",
+  "title": "S6E8 Smartphone Addiction - Baseline GPU",
+  "code_file": "s6e8-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": ["playground-series-s6e8"],
+  "kernel_sources": [],
+  "category_ids": []
+}
